@@ -74,4 +74,3 @@ public class WordCounter {
 	}
 
 }
-"Hello, world! How are you doing?";
